@@ -1,7 +1,7 @@
 #! /bin/bash
 
 func(){
-echo "hello trojans"
+echo "hello trojans.Welcome to 595"
 }
 
 func
